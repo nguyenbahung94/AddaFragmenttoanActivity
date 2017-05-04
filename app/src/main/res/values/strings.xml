@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"Add a Fragment to an Activity "</string>
+    <string-array name="androidversion">
+        <item>aaa</item>
+        <item>bbb</item>
+        <item>ccc</item>
+        <item>ddd</item>
+        <item>eee</item>
+        <item>fff</item>
+        <item>ggg</item>
+    </string-array>
+</resources>
